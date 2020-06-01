@@ -1,0 +1,55 @@
+body {
+	background-image: linear-gradient(to right,darkslateblue,lightskyblue );
+
+}
+
+header .about {
+	margin-top: 20px;
+	font-size: 90px;
+	letter-spacing: 5px;
+	color: white;
+	margin-left: 345px;
+	margin-right: 350px;
+	border: 8px solid black;
+	padding: 30px;
+	padding-left: 85px;
+	border-radius: 30px;
+}
+
+aside {
+	font-size: 25px;
+	background-color: white;
+	border: 8px solid ;
+	float: left;
+	border-color: black;
+	width: 40%;
+	height: 50%;
+	margin-left: 390px;
+	margin-top: 45px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+article {
+	margin-top: 370px;
+}
+
+article a {
+	font-family: Stencil Std, fantasy;
+	font-size: 30px;
+	text-decoration: none;
+	color: black;
+	margin-left: -950px;
+	border: 5px solid black;
+	padding: 10px;
+	border-radius: 30px;
+	letter-spacing: 14px;
+	padding-left: 20px;		
+}
+
+article a:hover {
+	background-image: linear-gradient(to right,#0191B4, #35BBCA );
+	border: 1px solid black;
+	border-radius: 30px;
+}
